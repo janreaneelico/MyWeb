@@ -28,7 +28,7 @@ st.image(img, width=600, channels="RGB")
 # Set the title for the webpage
 st.title("GLICO BLOG")
 
-st.header("Hi, I'm Jan Reane L. Elico and Welcome To my Blog :wave:, \n where you'll learn more about me")
+st.header("Hi, I'm Jan Reane L. Elico and Welcome To my Blog :wave:, \n Here where you'll learn more about me")
 st.header("I'm a 1st Year College Student in BSCPE Course")
 st.write("I choose this course because it's all about Computer, which is related to my strand when I was in Grade 12 ICT")
 st.write("Message me on Facebook [Click here >]")
