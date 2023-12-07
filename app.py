@@ -26,7 +26,7 @@ img = Image.open("Me.jpg")
 st.image(img, width=600, channels="RGB")
 
 # Set the title for the webpage
-st.title("GLICO BLOG")
+st.title("ELICO'S BLOG")
 
 st.header("Hi, I'm Jan Reane L. Elico and Welcome To my Blog :wave:, \n Here where you'll learn more about me")
 st.header("I'm a 1st Year College Student in BSCPE Course")
